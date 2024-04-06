@@ -2,7 +2,7 @@ Hi 👋😊
 
 Joined Github **7** years ago.
 
-Since then I pushed **488** commits, opened **16** issues, submitted **46** pull requests, and contributed to **4** public repositories.
+Since then I pushed **489** commits, opened **16** issues, submitted **46** pull requests, and contributed to **4** public repositories.
 
 Most used languages across my projects:
 
@@ -15,5 +15,4 @@ Most used languages across my projects:
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.7%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.1%25)
 
-[![](https://visitcount.itsvg.in/api?id=akashsharma99&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
